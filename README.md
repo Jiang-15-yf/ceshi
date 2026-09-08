@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 价格牌处理工具 · Python 项目
 
 把原单文件 HTML 工具翻译为 Python 项目：
@@ -337,3 +338,6 @@ PyMuPDF 默认支持中文路径与中文文本。如遇乱码，检查源 PDF �
 ## License
 
 内部使用工具，未指定开源协议。
+=======
+# -
+>>>>>>> f84baeb02ea5bae00eaa8bcddd8eae0f64c9eace
